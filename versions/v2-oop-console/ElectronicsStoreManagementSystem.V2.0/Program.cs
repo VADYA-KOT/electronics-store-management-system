@@ -219,6 +219,6 @@ static bool ReadYesNo(string prompt)
             || string.Equals(answer, "нет", StringComparison.OrdinalIgnoreCase);
         if (isNo) return false;
 
-        Console.WriteLine("Введите «д» или «н».");
+        Console.WriteLine("Введите «да» или «нет».");
     }
 }

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="versions/v1-basic-console/ElectronicsStoreManagementSystemV1.0/ElectronicsStoreManagementSystemV1.0.csproj" />
+  <Project Path="versions/v2-oop-console/ElectronicsStoreManagementSystem.V2.0/ElectronicsStoreManagementSystem.V2.0.csproj" />
+</Solution>
